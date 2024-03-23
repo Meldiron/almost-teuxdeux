@@ -47,7 +47,7 @@
 				<div class="inline-flex items-center">
 					<label
 						class="relative flex items-center p-3 rounded-full cursor-pointer"
-						htmlFor="checkbox"
+						for="checkbox"
 					>
 						<input
 							disabled={todo.text === ''}
